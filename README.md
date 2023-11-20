@@ -20,4 +20,6 @@ To view the web page, clone the repository and open the `index.html` file in you
 
 [original design](https://www.figma.com/file/yACPwNmYMNocn2aDLH5D7Q/Responsive-Homepage?type=design&version-id=4477542725&node-id=0-1&mode=design&t=pKvMMyvuLHBRutT3-0)
 
+## Live link
 
+[GD](https://ornate-hummingbird-bf6867.netlify.app/)
